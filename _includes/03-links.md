@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+You can learn more about me by following me on:
+https://rifakabeer12.github.io/markdown-portfolio/
