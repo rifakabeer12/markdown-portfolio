@@ -1,3 +1,3 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-+ i liked  _what i have studied right now
-+ its **interesting
++ i liked  _what_ i have studied right now
++ its **interesting**
