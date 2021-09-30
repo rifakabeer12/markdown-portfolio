@@ -1,3 +1,3 @@
-:smile: Happy
-:sparkle:
-:tada: completed
+* :smile: Happy
+* :sparkle:
+* :tada: completed
